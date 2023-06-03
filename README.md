@@ -1,5 +1,11 @@
 # Pong-in-python :joystick:
 
+
+<p align="center">
+  <img src="https://github.com/IshanMehta115/Pong-in-python/blob/main/screenshot.PNG" alt="Game Screenshot" width="800px">
+</p>
+
+
 This is a simple Pong game made in python3 using pygame module.
 
 Features:
